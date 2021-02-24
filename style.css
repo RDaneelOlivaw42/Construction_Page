@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+/*'Prata', serif*/
+
+body{
+    background-image: url('bg.jpg');
+    background-color: rgba(0, 0, 0, 0.6);
+    background-blend-mode: overlay;
+    background-size: cover;
+    font-family: 'Prata', serif;
+}
+
+h1{
+    color: #DCF5FF;
+    font-size: 80px;
+    text-shadow: 3px 3px 5px #DCF5FF;
+    text-align: center;
+    font-family: 'Prata', serif;
+}
+
+#barTop{
+    margin-top: 90px;
+}
+
+h2{
+    color: #DCF5FF;
+    text-decoration: underline;
+    text-align: center;
+    padding: 20px;
+}
+
+#description {
+    color: #ffffff;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+p{
+    color: #E3E3E3;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 17px;
+}
+
+img{
+    float: right;
+    padding-right: 60px;
+    margin-top: -120px;
+    padding-left: 50px;
+}
+
+.bar {
+    margin-bottom: 40px;
+    margin-top: 90px;
+}
+
+#downld a{
+    margin-left: 50px;
+    color: white;
+}
+
+#downld a:hover {
+    background-color: #DCF5FF;
+    color: black;
+}
+
+#TableOfConts {
+    color: #ffffff;
+    margin-left: 50px;
+    border: 2px solid #DCF5FF;
+    width: 300px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+#TableOfConts a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#TableOfConts a:hover {
+    text-decoration: none;
+    background-color: #DCF5FF;
+    color: black;
+}
